@@ -1,6 +1,6 @@
 To begin with, start with Behzad Razawi's video lectures, the link to the lectures can be found [here](https://www.youtube.com/watch?v=yQDfVJzEymI&list=PLyYrySVqmyVPzvVlPW-TTzHhNWg1J_0LU). Follow this till Single Stage Common Source Amplifiers and Biasing(Ib, Ic, etc).
 
-Aldo Study Characteristics of MOSFETs, BJTs, Diode and their applications, you can study this from either Behzadd Razawi's youtube lectures, or books written by Razai or Sedra Smith(provided in this repo).
+Aldo Study Characteristics of MOSFETs, BJTs, Diode and their applications, you can study this from either Behzadd Razawi's youtube lectures, or books written by Razai or Sedra Smith(provided in this folder).
 
 Study voltage regulator using Zener Diode a good source is provided [here](https://www.youtube.com/watch?v=MZPeRlst8rQ)
 
@@ -12,7 +12,7 @@ Study Analog Filters(razawi Chapter 15),  Output stages and Power Amplifiers(Raz
 
 Focus on RC transients(Step and Impulse) from this [playlist](https://www.youtube.com/playlist?list=PL6qRG5-NfbLvagdQOwShX9FMrzb5hSvrq), but try to understand other passive circuits too.
 
-Study OP AMPS, making circuits with them, using them as black boxes, from Sergio Franco's book(given in this repo). Pay special emphasis to Oscillators(RC Phase Shift and Wein Bridge).
+Study OP AMPS, making circuits with them, using them as black boxes, from Sergio Franco's book(given in this folder). Pay special emphasis to Oscillators(RC Phase Shift and Wein Bridge).
 
 Apart from these resources [Electronics Tutorials](https://www.electronics-tutorials.ws/) is a good source for all things electronics(it is recommend by TI). [All about electronics](https://www.youtube.com/channel/UCBkOVp1Cqz4MR0LYR8vKpZg) is a great source for all electronics study videos, they are short and succint.
 
