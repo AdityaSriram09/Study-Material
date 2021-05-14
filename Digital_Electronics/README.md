@@ -1,6 +1,6 @@
 # Digital Electronics
 
-## Topics to cover: 
+
 
 * Codes, Logic Gates, Combinational Circuits, KMaps, Encoder and Decoder circuits, Multiplexers and Demultiplexers, Adders, Subtractors, Comparators, Sequential Circuits, Flip Flops, Latches, Registers, Flip Flop Conversions, Synchronous/Asynchronous circuits, Clocked Circuits, FSMs, Mealy & Moore machines, Counters, State Reduction.
 
