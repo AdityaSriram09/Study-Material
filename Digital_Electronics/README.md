@@ -8,7 +8,7 @@
 
 * Static Timing Analysis is another important topic. Refer to the following 2 lectures (<a href="https://www.youtube.com/watch?v=pEj6LR-C84Y">Lecture 1</a> and <a href="https://www.youtube.com/watch?v=mrY0MzCBgAo">Lecture 2</a>) for this. Also read Parts 1, 2, 3a, 3b, 3c, 5a, 5b, 6a of <a href="http://www.vlsi-expert.com/2011/03/static-timing-analysis-sta-basic-timing.html">VLSI Expert.</a> 
 <br>
-Refer two the next 2 lectures, [Video 1](https://www.youtube.com/watch?v=iqvZLAgoA-g&list=PLD5C0Wv5Dnmdv-B6NGOu4MA3yDlqFfdre&index=3), [Video 2](https://www.youtube.com/watch?v=R50lGuibylE&list=PLD5C0Wv5Dnmdv-B6NGOu4MA3yDlqFfdre&index=4) for some really helpful interview questions on Static timing Analysis.
+Refer two the next 2 lectures,(<a href="https://www.youtube.com/watch?v=iqvZLAgoA-g&list=PLD5C0Wv5Dnmdv-B6NGOu4MA3yDlqFfdre&index=3">Video 1</a>[Video 1](https://www.youtube.com/watch?v=iqvZLAgoA-g&list=PLD5C0Wv5Dnmdv-B6NGOu4MA3yDlqFfdre&index=3), [Video 2](https://www.youtube.com/watch?v=R50lGuibylE&list=PLD5C0Wv5Dnmdv-B6NGOu4MA3yDlqFfdre&index=4)) for some really helpful interview questions on Static timing Analysis.
 
 * For understanding CMOS technology, refer to the following lectures: [Lecture 1](https://www.youtube.com/watch?v=faiEVOOCe-s&list=PLLy_2iUCG87Bdulp9brz9AcvW_TnFCUmM&index=2), [Lecture 2](https://www.youtube.com/watch?v=faiEVOOCe-s&list=PLLy_2iUCG87Bdulp9brz9AcvW_TnFCUmM&index=2), [Lecture 3](https://www.youtube.com/watch?v=ZwD1kNvzO_g&list=PLLy_2iUCG87Bdulp9brz9AcvW_TnFCUmM&index=6), [Lecture 4](https://www.youtube.com/watch?v=UQqliHhtHcM&list=PLLy_2iUCG87Bdulp9brz9AcvW_TnFCUmM&index=7). These cover the basics of MOSFETS and the CMOS inverter. 
   
