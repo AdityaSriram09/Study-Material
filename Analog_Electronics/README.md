@@ -10,7 +10,7 @@ Study voltage regulator using Zener Diode a good source is provided [here](https
 
 Study Miller's theorem [here](https://www.youtube.com/watch?v=-mwPR_ek0fc)
 
-Study Analog Filters(razawi Chapter 15),  Output stages and Power Amplifiers(Razawi Chapter 14).
+Study Analog Filters(Razawi Chapter 15),  Output stages and Power Amplifiers(Razawi Chapter 14).
 
 Focus on RC transients(Step and Impulse) from this [playlist](https://www.youtube.com/playlist?list=PL6qRG5-NfbLvagdQOwShX9FMrzb5hSvrq), but try to understand other passive circuits too.
 
