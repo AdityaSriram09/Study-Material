@@ -15,3 +15,5 @@ Refer two the next 2 lectures,(<a href="https://www.youtube.com/watch?v=iqvZLAgo
 * RC circuits play an important role in device parasitics(delays and energy dissipation), so it is important to understand how RC circuits work. Check [this video](https://www.youtube.com/watch?v=KylJ2v1_c-o&t=1403s) for the basics.
 
 * It is important to know any one(interviewers mostly ask for verilog, but knowing vhdl also is not harmful) Hardware Definition Language(HDL) out of Verilog and VHDL. Refer to the books in this folder for the same. It is important to know how to code common combinational and sequential circuits, as well as finite state machines(both mealy and moore state machines). You can find the NPTEL course for verilog [here](https://nptel.ac.in/courses/106/105/106105165/).
+
+Also study your basic C programming and DSA.
